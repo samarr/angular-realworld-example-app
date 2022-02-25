@@ -10,6 +10,7 @@
 
 # IDEs and editors
 .vscode/
+.angular/
 /.idea
 .project
 .classpath
@@ -38,6 +39,8 @@ yarn-error.log
 # e2e
 /e2e/*.js
 /e2e/*.map
+./e2e/mountebank/mb.log
+./e2e/mountebank/mb.pid
 
 # System Files
 .DS_Store
